@@ -1,6 +1,10 @@
 export default {
-  base: '/index.html',
-  publicPath:'./',
+  // base: '/',
+  // publicPath:'./',
+  exportStatic: {
+    htmlSuffix: true,
+    dynamicRoot: true,
+  },
     plugins: [
       [
         'umi-plugin-react', {
