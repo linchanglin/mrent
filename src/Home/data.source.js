@@ -13,13 +13,13 @@ export const Nav20DataSource = {
       {
         name: 'Banner1_0',
         to: 'Banner1_0',
-        children: '首页',
+        children: '展示',
         className: 'menu-item',
       },
       {
         name: 'Content6_0',
         to: 'Content6_0',
-        children: '公司介绍',
+        children: '公司简介',
         className: 'menu-item',
       },
       {
@@ -55,9 +55,9 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '一个高效的页面动画解决方案',
+          children: '米租是全球领先的可循环（再生资源）科技公司',
         },
-        button: { className: 'banner1-button', children: 'Learn More' },
+        button: { className: 'banner1-button', children: '联系我们' },
       },
       {
         name: 'elem1',
@@ -71,9 +71,9 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '一个高效的页面动画解决方案',
+          children: '米租是全球领先的可循环（再生资源）科技公司',
         },
-        button: { className: 'banner1-button', children: 'Learn More' },
+        button: { className: 'banner1-button', children: '联系我们' },
       },
       {
         name: 'elem2',
@@ -87,9 +87,9 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '一个高效的页面动画解决方案',
+          children: '米租是全球领先的可循环（再生资源）科技公司',
         },
-        button: { className: 'banner1-button', children: 'Learn More' },
+        button: { className: 'banner1-button', children: '联系我们' },
       },
     ],
   },
@@ -103,13 +103,13 @@ export const Content60DataSource = {
     children: [
       {
         name: 'title',
-        children: '蚂蚁金融云提供专业的服务',
+        children: '米租科技提供专业的服务',
         className: 'title-h1',
       },
       {
         name: 'content',
         className: 'title-content',
-        children: '基于阿里云计算强大的基础资源',
+        children: '科技型互联网加出租加共享加可循环科技（再生资源）企业',
       },
     ],
   },
@@ -128,11 +128,11 @@ export const Content60DataSource = {
             'https://zos.alipayobjects.com/rmsportal/NKBELAOuuKbofDD.png',
           className: 'content6-icon',
         },
-        title: { className: 'content6-title', children: '技术' },
+        title: { className: 'content6-title', children: '科技' },
         content: {
           className: 'content6-content',
           children:
-            '丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。',
+            '米租是全球领先的可循环（再生资源）科技产品设计和可循环产品售卖、租赁平台，致力于把全新可循环产品，从使用安全卫生到外观爆棚再到使用科学带入每个人、每个家庭、每个组织，通过反复可循环利用为人类社会、为国家节约大量资源，为方便万家百姓构建了绿色、生态、和谐的可循环能源世界。',
         },
       },
       {
@@ -142,11 +142,11 @@ export const Content60DataSource = {
           children:
             'https://zos.alipayobjects.com/rmsportal/xMSBjgxBhKfyMWX.png',
         },
-        title: { className: 'content6-title', children: '融合' },
+        title: { className: 'content6-title', children: '创新' },
         content: {
           className: 'content6-content',
           children:
-            '解放业务及技术生产力，推动金融服务底层创新，推动金融服务底层创新。解放业务及技术生产力，推动金融服务底层创新。',
+            '我们在可循环（再生资源）科技研究、可循环产品设计、可循环产品复新、可循环产品科学使用、和可循环产品售卖与租赁平台等领域为客户提供有竞争力、安全可信赖的产品、解决方案与服务，与资源生态伙伴开放合作，持续为客户创造价值，释放个人潜能，丰富家庭生活，激发组织创新。',
         },
       },
       {
@@ -156,11 +156,11 @@ export const Content60DataSource = {
           children:
             'https://zos.alipayobjects.com/rmsportal/MNdlBNhmDBLuzqp.png',
         },
-        title: { className: 'content6-title', children: '开发' },
+        title: { className: 'content6-title', children: '共享' },
         content: {
           className: 'content6-content',
           children:
-            '符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。',
+            '米租坚持树立以人为本，以国为家，以民族振兴为己任，围绕客户需求持续创新，加大基础研究投入，厚积薄发，推动世界进步。',
         },
       },
     ],
@@ -175,13 +175,13 @@ export const Content40DataSource = {
     children: [
       {
         name: 'title',
-        children: '蚂蚁金融云提供专业的服务',
+        children: '米租科技提供最优质的产品',
         className: 'title-h1',
       },
       {
         name: 'content',
         className: 'title-content content4-title-content',
-        children: '科技想象力，金融创造力',
+        children: '科技想象力，产品创造力，绿色影响力',
       },
     ],
   },
@@ -202,10 +202,10 @@ export const Content70DataSource = {
     children: [
       {
         name: 'title',
-        children: '蚂蚁金融云提供专业的服务',
+        children: '我们为世界带来了什么？',
         className: 'title-h1',
       },
-      { name: 'content', children: '基于阿里云计算强大的基础资源' },
+      { name: 'content', children: '米租人将胸怀家国、科技创新、绿色生态、科学高效、求真务实、努力前行' },
     ],
   },
   tabsWrapper: { className: 'content7-tabs-wrapper' },
@@ -215,7 +215,7 @@ export const Content70DataSource = {
         name: 'block0',
         tag: {
           className: 'content7-tag',
-          text: { children: 'PHONE', className: 'content7-tag-name' },
+          text: { children: '为客户创造价值', className: 'content7-tag-name' },
           icon: { children: 'mobile' },
         },
         content: {
@@ -226,7 +226,10 @@ export const Content70DataSource = {
             xs: 24,
             children: (
               <span>
-                <h3>技术</h3>
+                <p>
+                米租和运营商一起，预计初步在全国建设300多个网点，帮助社会超过三分之一的人口实现联接。米租携手合作伙伴，为社会百姓、政府及公共事业机构，金融、能源、交通、制造等企业客户，提供开放、灵活、安全的可循环产品（再生资源）互联网售卖与租赁平台，推动行业互联网加智能数字化转型；为米租合作伙伴、社区客户提供稳定可靠、安全可信和可持续反复使用的售卖与租赁平台。
+                </p>
+                {/* <h3>技术</h3>
                 <p>
                   丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。
                 </p>
@@ -238,7 +241,7 @@ export const Content70DataSource = {
                 <br />
                 <h3>
                   开放
-                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。
+                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。 */}
               </span>
             ),
           },
@@ -256,7 +259,7 @@ export const Content70DataSource = {
         tag: {
           className: 'content7-tag',
           icon: { children: 'tablet' },
-          text: { className: 'content7-tag-name', children: 'TABLET' },
+          text: { className: 'content7-tag-name', children: '推动产业良性发展' },
         },
         content: {
           className: 'content7-content',
@@ -266,7 +269,10 @@ export const Content70DataSource = {
             xs: 24,
             children: (
               <span>
-                <h3>技术</h3>
+                <p>
+                米租主张开放、合作、共赢，与客户合作伙伴及友商合作创新、扩大产业价值，形成健康良性的产业生态系统。米租既是可循环经济行业的领导者也是参与者，会积极加入标准组织、产业联盟和开源社区，积极参与和支持主流标准的制定、构建共赢的生态圈。我们面向可循环能源、互联网租赁、再生资源互联网售卖与回收等新兴热点领域，与产业伙伴分工协作，推动产业持续良性发展。
+                </p>
+                {/* <h3>技术</h3>
                 <p>
                   丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。
                 </p>
@@ -278,7 +284,7 @@ export const Content70DataSource = {
                 <br />
                 <h3>
                   开放
-                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。
+                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。 */}
               </span>
             ),
           },
@@ -295,7 +301,7 @@ export const Content70DataSource = {
         name: 'block2',
         tag: {
           className: 'content7-tag',
-          text: { children: 'DESKTOP', className: 'content7-tag-name' },
+          text: { children: '促进经济增长', className: 'content7-tag-name' },
           icon: { children: 'laptop' },
         },
         content: {
@@ -306,7 +312,10 @@ export const Content70DataSource = {
             xs: 24,
             children: (
               <span>
-                <h3>技术</h3>
+                <p>
+                米租不仅为所在国家带来直接的税收贡献，促进当地就业，形成产业链带动效应，更重要的是通过创新的可循环经济（再生能源）模式与专利解决方案打造“互联网+回收+再利用”的模式与路径，开展信息采集，数据分析，流向监测，优化网点布局，实现线上回收线下物流相融合，搭建科学高效的物流体系，充分为国民节约开支，减少浪费，为国家节约能源，减少污染，造就生态环境。
+                </p>
+                {/* <h3>技术</h3>
                 <p>
                   丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。
                 </p>
@@ -318,7 +327,7 @@ export const Content70DataSource = {
                 <br />
                 <h3>
                   开放
-                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。
+                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。 */}
               </span>
             ),
           },
@@ -331,6 +340,96 @@ export const Content70DataSource = {
           },
         },
       },
+      {
+        name: 'block3',
+        tag: {
+          className: 'content7-tag',
+          icon: { children: 'tablet' },
+          text: { className: 'content7-tag-name', children: '推动社会可持续发展' },
+        },
+        content: {
+          className: 'content7-content',
+          text: {
+            className: 'content7-text',
+            md: 14,
+            xs: 24,
+            children: (
+              <span>
+                <p>
+                当前，国家为了提高资源利用率，保护与改善环境，实现可持续性发展，鼓励与强调产品要实现可循环利用；在以资源高效循环利用为核心的基础上，着力构建循环型产业体系，推动区域或者社会层面的循环经济发展，提升重点领域内循环经济产品的发展水平。米租公司结合国家法律及政策，着力强调落实《循环经济促进法》，在生产、流通和消费等过程中，进行了减量化、再利用、资源化的可循环经济活动，最大化的减少资源消耗和废弃物产生，提高废弃物再利用和资源化水平；推动和引导回收模式创新，探索“互联网+回收”的模式与路径，积极支持智能回收，鼓励利用互联网、大数据、物联网、信息管理平台等现代信息手段，实现线上回收线下融合，搭建企业自动化管理技术，创新可循环再利用商品的技术，有效推动了社会资源可持续性发展。
+                </p>
+                {/* <h3>技术</h3>
+                <p>
+                  丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。
+                </p>
+                <br />
+                <h3>融合</h3>
+                <p>
+                  解放业务及技术生产力，推动金融服务底层创新，推动金融服务底层创新。解放业务及技术生产力，推动金融服务底层创新。
+                </p>
+                <br />
+                <h3>
+                  开放
+                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。 */}
+              </span>
+            ),
+          },
+          img: {
+            className: 'content7-img',
+            md: 10,
+            xs: 24,
+            children:
+              'https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png',
+          },
+        },
+      },
+      {
+        name: 'block4',
+        tag: {
+          className: 'content7-tag',
+          icon: { children: 'tablet' },
+          text: { className: 'content7-tag-name', children: '为奋斗者提供舞台' },
+        },
+        content: {
+          className: 'content7-content',
+          text: {
+            className: 'content7-text',
+            md: 14,
+            xs: 24,
+            children: (
+              <span>
+                <p>
+                米租坚持“以人才发展为根本，以国家利益为己任”，以责任贡献来评价员工和选拔干部，为员工提供了社会发展平台、与世界对话的机会，使大量年轻人有机会担当重任，快速成长，也使得米租员工通过个人的努力，收获了合理的回报与值得回味的人生经历。
+                </p>
+                {/* <h3>技术</h3>
+                <p>
+                  丰富的技术组件，简单组装即可快速搭建金融级应用，丰富的技术组件，简单组装即可快速搭建金融级应用。
+                </p>
+                <br />
+                <h3>融合</h3>
+                <p>
+                  解放业务及技术生产力，推动金融服务底层创新，推动金融服务底层创新。解放业务及技术生产力，推动金融服务底层创新。
+                </p>
+                <br />
+                <h3>
+                  开放
+                </h3>符合金融及要求的安全可靠、高可用、高性能的服务能力，符合金融及要求的安全可靠、高可用、高性能的服务能力。 */}
+              </span>
+            ),
+          },
+          img: {
+            className: 'content7-img',
+            md: 10,
+            xs: 24,
+            children:
+              'https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png',
+          },
+        },
+      },
+
+
+
+
     ],
   },
 };
@@ -352,7 +451,7 @@ export const Footer10DataSource = {
         },
         content: {
           className: 'slogan',
-          children: 'Animation specification and components of Ant Design.',
+          children: '全球领先的可循环（再生资源）科技公司',
         },
       },
       {
@@ -366,19 +465,19 @@ export const Footer10DataSource = {
             <span>
               <p>
                 {' '}
-                <a href="#">产品更新记录</a>{' '}
+                <a href="#">天猫</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">API文档</a>{' '}
+                <a href="#">京东</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">快速入门</a>{' '}
+                <a href="#">淘宝</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">参考指南</a>{' '}
+                <a href="#">欧尚</a>{' '}
               </p>
             </span>
           ),
@@ -410,25 +509,25 @@ export const Footer10DataSource = {
         xs: 24,
         md: 6,
         className: 'block',
-        title: { children: '资源' },
+        title: { children: '相关链接' },
         content: {
           children: (
             <span>
               <p>
                 {' '}
-                <a href="#">Ant Design</a>{' '}
+                <a href="#">科技部</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">Ant Design</a>{' '}
+                <a href="#">环保局</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">Ant Design</a>{' '}
+                <a href="#">工信局</a>{' '}
               </p>{' '}
               <p>
                 {' '}
-                <a href="#">Ant Design</a>{' '}
+                <a href="#">工商局</a>{' '}
               </p>
             </span>
           ),
@@ -442,7 +541,7 @@ export const Footer10DataSource = {
     className: 'copyright',
     children: (
       <span>
-        ©2018 by <a href="https://motion.ant.design">Ant Motion</a> All Rights
+        ©2018 by <a href="#">米租</a> All Rights
         Reserved
       </span>
     ),
