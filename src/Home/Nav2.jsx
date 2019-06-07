@@ -55,6 +55,7 @@ class Header extends React.Component {
             {...dataSource.logo}
           >
             <img width="100%" src={dataSource.logo.children} alt="img" />
+            {/* <img width="100%" src={require('../assets/imgs/logo_en.jpg')} alt="img" /> */}
           </TweenOne>
           {isMobile && (
             <div

@@ -5,7 +5,9 @@ export const Nav20DataSource = {
   page: { className: 'home-page' },
   logo: {
     className: 'header2-logo',
-    children: 'https://os.alipayobjects.com/rmsportal/mlcYmsRilwraoAe.svg',
+    // children: 'https://os.alipayobjects.com/rmsportal/mlcYmsRilwraoAe.svg',
+    children: require('../assets/imgs/mrent_logo.png')
+
   },
   Menu: {
     className: 'header2-menu',
@@ -50,8 +52,8 @@ export const Banner10DataSource = {
         bg: { className: 'bg bg0' },
         title: {
           className: 'banner1-title',
-          children:
-            'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          // children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          children: require('../assets/imgs/mrent_logo.png')
         },
         content: {
           className: 'banner1-content',
@@ -66,8 +68,8 @@ export const Banner10DataSource = {
         bg: { className: 'bg bg1' },
         title: {
           className: 'banner1-title',
-          children:
-            'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          // children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          children: require('../assets/imgs/mrent_logo.png')
         },
         content: {
           className: 'banner1-content',
@@ -82,8 +84,8 @@ export const Banner10DataSource = {
         bg: { className: 'bg bg1' },
         title: {
           className: 'banner1-title',
-          children:
-            'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          // children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+          children: require('../assets/imgs/mrent_logo.png')
         },
         content: {
           className: 'banner1-content',
@@ -227,7 +229,7 @@ export const Content70DataSource = {
             children: (
               <span>
                 <p>
-                米租和运营商一起，预计初步在全国建设300多个网点，帮助社会超过三分之一的人口实现联接。米租携手合作伙伴，为社会百姓、政府及公共事业机构，金融、能源、交通、制造等企业客户，提供开放、灵活、安全的可循环产品（再生资源）互联网售卖与租赁平台，推动行业互联网加智能数字化转型；为米租合作伙伴、社区客户提供稳定可靠、安全可信和可持续反复使用的售卖与租赁平台。
+                  米租和运营商一起，预计初步在全国建设300多个网点，帮助社会超过三分之一的人口实现联接。米租携手合作伙伴，为社会百姓、政府及公共事业机构，金融、能源、交通、制造等企业客户，提供开放、灵活、安全的可循环产品（再生资源）互联网售卖与租赁平台，推动行业互联网加智能数字化转型；为米租合作伙伴、社区客户提供稳定可靠、安全可信和可持续反复使用的售卖与租赁平台。
                 </p>
                 {/* <h3>技术</h3>
                 <p>
@@ -270,7 +272,7 @@ export const Content70DataSource = {
             children: (
               <span>
                 <p>
-                米租主张开放、合作、共赢，与客户合作伙伴及友商合作创新、扩大产业价值，形成健康良性的产业生态系统。米租既是可循环经济行业的领导者也是参与者，会积极加入标准组织、产业联盟和开源社区，积极参与和支持主流标准的制定、构建共赢的生态圈。我们面向可循环能源、互联网租赁、再生资源互联网售卖与回收等新兴热点领域，与产业伙伴分工协作，推动产业持续良性发展。
+                  米租主张开放、合作、共赢，与客户合作伙伴及友商合作创新、扩大产业价值，形成健康良性的产业生态系统。米租既是可循环经济行业的领导者也是参与者，会积极加入标准组织、产业联盟和开源社区，积极参与和支持主流标准的制定、构建共赢的生态圈。我们面向可循环能源、互联网租赁、再生资源互联网售卖与回收等新兴热点领域，与产业伙伴分工协作，推动产业持续良性发展。
                 </p>
                 {/* <h3>技术</h3>
                 <p>
@@ -313,7 +315,7 @@ export const Content70DataSource = {
             children: (
               <span>
                 <p>
-                米租不仅为所在国家带来直接的税收贡献，促进当地就业，形成产业链带动效应，更重要的是通过创新的可循环经济（再生能源）模式与专利解决方案打造“互联网+回收+再利用”的模式与路径，开展信息采集，数据分析，流向监测，优化网点布局，实现线上回收线下物流相融合，搭建科学高效的物流体系，充分为国民节约开支，减少浪费，为国家节约能源，减少污染，造就生态环境。
+                  米租不仅为所在国家带来直接的税收贡献，促进当地就业，形成产业链带动效应，更重要的是通过创新的可循环经济（再生能源）模式与专利解决方案打造“互联网+回收+再利用”的模式与路径，开展信息采集，数据分析，流向监测，优化网点布局，实现线上回收线下物流相融合，搭建科学高效的物流体系，充分为国民节约开支，减少浪费，为国家节约能源，减少污染，造就生态环境。
                 </p>
                 {/* <h3>技术</h3>
                 <p>
@@ -356,7 +358,7 @@ export const Content70DataSource = {
             children: (
               <span>
                 <p>
-                当前，国家为了提高资源利用率，保护与改善环境，实现可持续性发展，鼓励与强调产品要实现可循环利用；在以资源高效循环利用为核心的基础上，着力构建循环型产业体系，推动区域或者社会层面的循环经济发展，提升重点领域内循环经济产品的发展水平。米租公司结合国家法律及政策，着力强调落实《循环经济促进法》，在生产、流通和消费等过程中，进行了减量化、再利用、资源化的可循环经济活动，最大化的减少资源消耗和废弃物产生，提高废弃物再利用和资源化水平；推动和引导回收模式创新，探索“互联网+回收”的模式与路径，积极支持智能回收，鼓励利用互联网、大数据、物联网、信息管理平台等现代信息手段，实现线上回收线下融合，搭建企业自动化管理技术，创新可循环再利用商品的技术，有效推动了社会资源可持续性发展。
+                  当前，国家为了提高资源利用率，保护与改善环境，实现可持续性发展，鼓励与强调产品要实现可循环利用；在以资源高效循环利用为核心的基础上，着力构建循环型产业体系，推动区域或者社会层面的循环经济发展，提升重点领域内循环经济产品的发展水平。米租公司结合国家法律及政策，着力强调落实《循环经济促进法》，在生产、流通和消费等过程中，进行了减量化、再利用、资源化的可循环经济活动，最大化的减少资源消耗和废弃物产生，提高废弃物再利用和资源化水平；推动和引导回收模式创新，探索“互联网+回收”的模式与路径，积极支持智能回收，鼓励利用互联网、大数据、物联网、信息管理平台等现代信息手段，实现线上回收线下融合，搭建企业自动化管理技术，创新可循环再利用商品的技术，有效推动了社会资源可持续性发展。
                 </p>
                 {/* <h3>技术</h3>
                 <p>
@@ -399,7 +401,7 @@ export const Content70DataSource = {
             children: (
               <span>
                 <p>
-                米租坚持“以人才发展为根本，以国家利益为己任”，以责任贡献来评价员工和选拔干部，为员工提供了社会发展平台、与世界对话的机会，使大量年轻人有机会担当重任，快速成长，也使得米租员工通过个人的努力，收获了合理的回报与值得回味的人生经历。
+                  米租坚持“以人才发展为根本，以国家利益为己任”，以责任贡献来评价员工和选拔干部，为员工提供了社会发展平台、与世界对话的机会，使大量年轻人有机会担当重任，快速成长，也使得米租员工通过个人的努力，收获了合理的回报与值得回味的人生经历。
                 </p>
                 {/* <h3>技术</h3>
                 <p>
@@ -446,8 +448,9 @@ export const Footer10DataSource = {
         className: 'block',
         title: {
           className: 'logo',
-          children:
-            'https://zos.alipayobjects.com/rmsportal/qqaimmXZVSwAhpL.svg',
+          // children: 'https://zos.alipayobjects.com/rmsportal/qqaimmXZVSwAhpL.svg',
+          children: require('../assets/imgs/mrent_logo.png'),
+
         },
         content: {
           className: 'slogan',
