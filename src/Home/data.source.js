@@ -57,7 +57,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '米租是可循环（再生资源）科技公司',
+          children: '米租是创新型可循环（再生资源）科技公司',
         },
         button: { className: 'banner1-button', children: '联系我们' },
       },
@@ -73,7 +73,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '米租是可循环（再生资源）科技公司',
+          children: '米租是创新型可循环（再生资源）科技公司',
         },
         button: { className: 'banner1-button', children: '联系我们' },
       },
@@ -89,7 +89,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '米租是可循环（再生资源）科技公司',
+          children: '米租是创新型可循环（再生资源）科技公司',
         },
         button: { className: 'banner1-button', children: '联系我们' },
       },
@@ -134,7 +134,7 @@ export const Content60DataSource = {
         content: {
           className: 'content6-content',
           children:
-            '米租是可循环（再生资源）科技产品设计和可循环产品售卖、租赁平台，致力于把全新可循环产品，从使用安全卫生到外观爆棚再到使用科学带入每个人、每个家庭、每个组织，通过反复可循环利用为人类社会、为国家节约大量资源，为方便万家百姓构建了绿色、生态、和谐的可循环能源世界。',
+            '米租是创新型可循环（再生资源）科技产品设计和可循环产品售卖、租赁平台，致力于把全新可循环产品，从使用安全卫生到外观爆棚再到使用科学带入每个人、每个家庭、每个组织，通过反复可循环利用为人类社会、为国家节约大量资源，为方便万家百姓构建了绿色、生态、和谐的可循环能源世界。',
         },
       },
       {
